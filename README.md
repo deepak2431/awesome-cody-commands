@@ -6,6 +6,8 @@
 
 A list of commands shared by the Cody users.
 
+1. [Improve Variable Names](./improve-variable-names/)
+
 
 # Contributing guidelines
 
