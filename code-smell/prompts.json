@@ -1,0 +1,7 @@
+{
+    "Smell Code": {
+        "prompt": "Find code smells, potential bugs, and unhandled errors in my selected code. Create a list with the top five errors you can find, and include a short informative description and suggestion for each. Please only respond with the list of errors and nothing else.'",
+        "context": { "selection": true },
+        "slashCommand": "smell code"
+      }
+}
