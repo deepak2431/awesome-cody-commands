@@ -11,6 +11,8 @@
 A list of commands shared by the Cody users. To use any of the commands, copy the content of the `prompt.json` file and insert them under `~/.vscode/cody.json`. 
 
 1. [Improve Variable Names](./improve-variable-names/)
+2. [Code smell](./code-smell/)
+3. [Generate release notes](./generate-release-notes/)
 
 
 # Contributing guidelines
