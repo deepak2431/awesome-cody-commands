@@ -15,5 +15,3 @@ This command can be used to improve variable names in code by making them more d
 ## Examples
 
 ![Example 3](./example_3.gif)
-![Example 1](./example_1.jpg)
-![Example 2](./example_2.jpg)
