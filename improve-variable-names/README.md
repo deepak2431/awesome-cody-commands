@@ -10,7 +10,7 @@ This command can be used to improve variable names in code by making them more d
     "context": { "codebase": false, "selection": true }
   }
 ```
-> <small>Copy the JSON above and paste it to the bottom of `~/.vscode/cody.json`. </small>
+> Copy the JSON above and paste it to the bottom of `~/.vscode/cody.json`.
 
 ## Examples
 

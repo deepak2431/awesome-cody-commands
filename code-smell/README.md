@@ -11,6 +11,7 @@ This command can be used to find potential issues in the code and any uncertain 
         "slashCommand": "smell code"
     }
 ```
+> Copy the JSON above and paste it to the bottom of `~/.vscode/cody.json`.
 
 ## Examples
 

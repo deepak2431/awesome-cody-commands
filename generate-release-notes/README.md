@@ -13,6 +13,7 @@ This command can be used to generate release notes for a project based on commit
     }
   }
 ```
+> Copy the JSON above and paste it to the bottom of `~/.vscode/cody.json`.
 
 ## Examples
 ![Example 1](./example_1.jpg)
