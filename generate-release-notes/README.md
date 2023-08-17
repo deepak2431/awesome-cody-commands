@@ -6,7 +6,7 @@ This command can be used to generate release notes for a project based on commit
 
 ```json
   "Generate Release Notes": {
-    "prompt": "Generate release notes by summarising the commits. Use proper heading format for the release notes. Do not include other changes and dependency updates.",
+    "prompt": "Generate release notes by summarising the given git commits output. Use proper heading format for each part of the release notes. Do not include other changes, commit hash and dependency updates.",
     "context": {
       "selection": false,
       "command": "git log --since='1 week' --pretty='Commit author: %an%nCommit message: %s%nChange description:%b%n'"
