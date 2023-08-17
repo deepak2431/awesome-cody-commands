@@ -19,6 +19,6 @@ This command can be used to convert HTML to Markdown.
 
 ## Examples
 
-./example_1.mp4
+(https://storage.googleapis.com/sourcegraph-assets/blog/example_1.mp4)
 
 ![Example 2](./example_2.jpg)
