@@ -19,5 +19,6 @@ This command can be used to convert HTML to Markdown.
 
 ## Examples
 
-![Example 1](./example_1.mp4)
+./example_1.mp4
+
 ![Example 2](./example_2.jpg)
