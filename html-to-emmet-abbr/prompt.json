@@ -1,9 +1,9 @@
-"Convert HTML to Markdown": {
-  "prompt": "Convert the selected HTML code to Markdown format, Just give the answer, no follow up explanations.",
+"convert-html-to-emmet-abbreviation": {
+  "description": "Convert HTML to Emmet Abbreviation",
+  "prompt": "Convert the selected HTML code to an Emmet Abbreviation, Just give the answer, no follow up explanations.",
+  "type": "user",
   "context": {
     "codebase": false,
     "selection": true
-  },
-  "name": "Convert HTML to Markdown",
-  "type": "user"
+  }
 }
