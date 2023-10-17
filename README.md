@@ -14,6 +14,7 @@ A list of commands shared by the Cody users. To use any of the commands, copy th
 2. [Code smell](./code-smell/)
 3. [Generate release notes](./generate-release-notes/)
 4. [Convert HTML to Markdown](./html-to-markdown/)
+5. [Convert HTML to Emmet Abbreviation](./html-to-emmet-abbr/)
 
 
 # Contributing guidelines
