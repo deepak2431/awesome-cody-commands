@@ -1,0 +1,20 @@
+# Cody command: Explain with Security Analysis
+
+This command can be used to explain code with security analysis.
+
+## Prompt
+
+```json
+"explain-with-security": {
+  "description": "Explain code w/ security analysis",
+  "prompt": "Explain and document the shared code in literate markdown form, including code blocks containing the original code. Start with a summary of the overall code. Assume the audience is an experienced programmer who understands the language features and syntax. Explain how each section achieves its purpose through the logic and algorithm. Include a section explaining any security concerns found. Write the explanation assuming no prior context about the code is known. Do not make assumptions about variables or functions not shown in the shared code. Output only the explanation without any 'Here is' style preface or final remarks.",
+  "context": {
+    "currentFile": true
+  }
+}
+```
+> Copy the JSON above and paste it to the bottom of `~/.vscode/cody.json`.
+
+## Examples
+
+![Example 1](./example_1.png)

@@ -11,10 +11,11 @@
 A list of commands shared by the Cody users. To use any of the commands, copy the content of the `prompt.json` file and insert them under `~/.vscode/cody.json`. 
 
 1. [Improve variable names](./improve-variable-names/)
-2. [Code smell](./code-smell/)
-3. [Generate release notes](./generate-release-notes/)
-4. [Convert HTML to Markdown](./html-to-markdown/)
-5. [Convert HTML to Emmet Abbreviation](./html-to-emmet-abbr/)
+1. [Code smell](./code-smell/)
+1. [Generate release notes](./generate-release-notes/)
+1. [Convert HTML to Markdown](./html-to-markdown/)
+1. [Convert HTML to Emmet Abbreviation](./html-to-emmet-abbr/)
+1. [Explain with Security Analysis](./explain-with-security/)
 
 
 # Contributing guidelines
